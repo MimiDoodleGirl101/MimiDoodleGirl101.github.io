@@ -5,13 +5,13 @@ body {
 	margin: auto;
 }
 
-.newspaper {
+.home {
 	background-color: antiquewhite;
 	font-family: "Times New Roman", Times, serif;
 	font-weight: bold;
 }
 
-.magazine1  {
+.cooking  {
   background-color: teal;
   color:white;
   font-family: Verdana;
@@ -19,14 +19,14 @@ body {
 	text-transform: uppercase; 
 }
 
-.magazine2 {
+.books {
 	background-image: url('canvas.png');
   color: fuchsia;
   font-family:;
 	font-weight: 900;
 }
 
-.comic {
+.sewing {
   background-color:Black ;
   color:red;
   font-weight:bold;
