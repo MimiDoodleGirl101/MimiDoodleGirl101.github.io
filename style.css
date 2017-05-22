@@ -1,41 +1,82 @@
-span
-{
-	display: inline-block; 
-	margin: 8px; 
-	box-shadow: 1px 2px 2px grey; 
-}
-
 body {
-  background-color: white;
-	padding: 30px;
-	max-width: 350px;
-	margin: auto;
+   background: white;
 }
 
-.home {
-	background-color: antiquewhite;
-	font-family: "Times New Roman", Times, serif;
-	font-weight: bold;
+.sticker {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin: 5px;
+}
+#coding {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Courier New";
+  padding: 50px 30px;
+  background: linear-gradient(red, magenta);
+  border-radius: 20px; 
+}
+#mimi {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Impact;
+  padding: 30px;
+  background: radial-gradient(purple, slateblue);
+  border-radius: 100px;
+  text-shadow: 2px 2px grey;
+}
+#rainbows {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Goudy Old Style;
+  padding: 30px;
+  border-radius: 10px;
+  background: linear-gradient(tomato,orange,yellow,palegreen,olivedrab,lightskyblue,mediumblue,mediumslateblue,purple);
+  
+}
+#music {
+  border-radius: 20px;
+  border: 10px solid black;
+  position: relative;
+}
+#musictext{
+  font-size: 100px;
+  font-family: Brush Script MT;
+  position:absolute;
+  bottom: 40px;
+  left: 40px;
+  color: white;
+  transform: rotate(-0deg);
 }
 
-.cooking  {
-  background-color: teal;
-  color:white;
-  font-family: Verdana;
-	font-weight: 900;
-	text-transform: uppercase; 
-}
 
-.books {
-	background-image: url('canvas.png');
-  color: fuchsia;
-  font-family:;
-	font-weight: 900;
-}
 
-.sewing {
-  background-color:Black ;
-  color:red;
-  font-weight:bold;
-  font-family: 'Barrio', cursive;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
