@@ -8,7 +8,7 @@ body {
   text-align: center;
   margin: 5px;
 }
-#cooking {
+#coding {
   font-size: 40px;
   font-weight: bold;
   font-family: "Courier New";
@@ -16,7 +16,7 @@ body {
   background: linear-gradient(red, magenta);
   border-radius: 20px; 
 }
-#sewing {
+#mimi {
   font-size: 40px;
   font-weight: bold;
   font-family: Impact;
