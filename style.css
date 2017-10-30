@@ -34,20 +34,8 @@ body {
   background: linear-gradient(tomato,orange,yellow,palegreen,olivedrab,lightskyblue,mediumblue,mediumslateblue,purple);
   
 }
-#music {
-  border-radius: 20px;
-  border: 10px solid black;
-  position: relative;
-}
-#musictext{
-  font-size: 100px;
-  font-family: Brush Script MT;
-  position:absolute;
-  bottom: 40px;
-  left: 40px;
-  color: white;
-  transform: rotate(-0deg);
-}
+
+
 
 
 
