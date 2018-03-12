@@ -21,7 +21,7 @@ body {
   font-weight: bold;
   font-family: Impact;
   padding: 30px;
-  background: radial-gradient(purple, slateblue);
+  background: linear-gradient(purple, slateblue);
   border-radius: 100px;
   text-shadow: 2px 2px grey;
 }
