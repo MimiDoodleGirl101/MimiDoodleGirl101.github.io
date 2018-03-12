@@ -20,17 +20,17 @@ body {
   font-size: 40px;
   font-weight: bold;
   font-family: Impact;
-  padding: 30px;
+  padding: 50px 30px;
   background: linear-gradient(purple, slateblue);
-  border-radius: 100px;
+  border-radius: 20px;
   text-shadow: 2px 2px grey;
 }
 #rainbows {
   font-size: 40px;
   font-weight: bold;
   font-family: Goudy Old Style;
-  padding: 30px;
-  border-radius: 10px;
+  padding: 50px 30px;
+  border-radius: 20px;
   background: linear-gradient(tomato,orange,yellow,palegreen,olivedrab,lightskyblue,mediumblue,mediumslateblue,purple);
   
 }
