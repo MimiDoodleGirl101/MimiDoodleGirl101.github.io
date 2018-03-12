@@ -13,7 +13,7 @@ body {
   font-weight: bold;
   font-family: "Courier New";
   padding: 50px 30px;
-  background: linear-gradient(red, magenta);
+  background: linear-gradient(blue, deepskyblue, cyan);
   border-radius: 20px; 
 }
 #mimi {
