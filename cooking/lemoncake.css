@@ -4,4 +4,10 @@ font-family: impact;
 ul {
 font-family: courier new;
 }
-
+body{
+  border: 10px dashed gray ;
+  font-family:algerian;
+   color: gray;
+   text-align:left;
+   background-image: url("http://apumpkinandaprincess.com/wp-content/uploads/2014/05/Double-Chocolate-Oreo-Milkshake-Recipe.jpg");
+}
