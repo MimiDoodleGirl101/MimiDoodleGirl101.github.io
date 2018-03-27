@@ -1,13 +1,15 @@
 h1 {
-font-family: impact;
+  font-family: impact;
+  text-align: center;
 }
 ul {
-font-family: courier new;
+  text-align: center;
+  font-family: courier new;
 }
 body{
   border: 10px dashed gray;
   font-family: algerian;
-   color: gray;
-   text-align: left;
-   background-image: url("recipe-image-legacy-id--9159_10.jpg");
+  color: gray;
+  text-align: center;
+  background-image: url("recipe-image-legacy-id--9159_10.jpg");
 }
