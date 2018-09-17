@@ -1,7 +1,6 @@
 body {
-   background: white;
+   background-image: url("marble.jpg");
 }
-
 .sticker {
   display: inline-block;
   vertical-align: top;
