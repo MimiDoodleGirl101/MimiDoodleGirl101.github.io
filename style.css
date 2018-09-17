@@ -5,14 +5,16 @@
   text-align: center;
   margin: 5px;
 }
+
 #coding {
   font-size: 40px;
   font-weight: bold;
   font-family: "Courier New";
   padding: 50px 30px;
   background-color: rgb(255, 192, 203);
-  border-radius: 20px; 
+  border-radius: 20px;
 }
+
 #mimi {
   font-size: 40px;
   font-weight: bold;
@@ -21,6 +23,7 @@
   background-color: rgb(211, 211, 211);
   border-radius: 20p;
 }
+
 #rainbows {
   font-size: 40px;
   font-weight: bold;
