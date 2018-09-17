@@ -10,7 +10,7 @@
   font-weight: bold;
   font-family: "Courier New";
   padding: 50px 30px;
-  background-color: (paleturquoise);
+  background-color: rgb(255,192,203);
   border-radius: 20px; 
 }
 #mimi {
@@ -18,15 +18,15 @@
   font-weight: bold;
   font-family: "Courier New";
   padding: 50px 30px;
-  background-color: (pink);
-  border-radius: 20px;
+  background-color: rgb(211,211,211);
+  border-radius: 20p;
 }
 #rainbows {
   font-size: 40px;
   font-weight: bold;
   font-family: "Courier New";
   padding: 50px 30px;
-  background-color: (lightgray);
+  background-color: rgb(175,238,238);
   border-radius: 20px;
   }
 
